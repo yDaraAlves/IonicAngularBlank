@@ -1,0 +1,2 @@
+# IonicAngularBlank
+Aplicativos híbridos.
